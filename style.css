@@ -1,12 +1,20 @@
-html {
-  background-color: #fff;
-}
-
 body {
+  margin: 0;
+  padding-top: 50px; }
 
-}
+html {
+  margin: auto; }
 
+/*fixed bar w logo and login info*/
 nav {
-  background-color: #fff5d5;
-  height: 50px;
-}
+  background-color: #222;
+  overflow: hidden;
+  width: 100%;
+  top: 0;
+  color: #fff;
+  font-size: 20px; }
+
+.jumbotron p.details {
+  font-size: 20px; }
+
+/*# sourceMappingURL=style.css.map */
