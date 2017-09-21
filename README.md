@@ -7,4 +7,5 @@ Pick yourself up!
 
 yona
 almost identical
-https://y0n4.github.io/assignment_bootstrap_sprint/
+(mock up link) https://y0n4.github.io/assignment_bootstrap_sprint/
+(reference link) https://getbootstrap.com/docs/3.3/examples/jumbotron/
